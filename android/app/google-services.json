@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795589723045",
+    "project_id": "pu-resources-4e5cb",
+    "storage_bucket": "pu-resources-4e5cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795589723045:android:fef6c5802442eaded19e4c",
+        "android_client_info": {
+          "package_name": "com.example.pu_resourcse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795589723045-nev60l60435f44e1nk7mupof7ithnkn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBSDUH4rnPRX-dya9ePD85Pk02BD5Rg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795589723045-nev60l60435f44e1nk7mupof7ithnkn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
